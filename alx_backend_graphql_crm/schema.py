@@ -5,4 +5,4 @@ class Query(graphene.ObjectType):
     hello = graphene.String(default_value="Hello, GraphQL!")
 
 
-shema = graphene.Schema(query=Query)
+schema = graphene.Schema(query=Query)
