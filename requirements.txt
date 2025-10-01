@@ -1,3 +1,9 @@
+django-crontab==0.7.1
+celery==5.3.4
+redis==4.6.0
+django-celery-beat==2.5.0
+gql==3.4.0
+
 asgiref==3.9.1
 Django==5.2.5
 django-filter==25.1
